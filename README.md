@@ -166,6 +166,8 @@ m =
 3 & 4 \\
 \end{pmatrix}
 $$
+
+
 Multiplicar las diagonales que se van hacia abajo
 Primera diagonal: [113 x -2 x -90] = 20340
 Segunda diagonal: [-43 x -36 x 103] = 159444
